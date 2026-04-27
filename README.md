@@ -4,8 +4,7 @@
 
 ---
 
-## 📸 Demo Preview
-![App Screenshot](screenshot.png)
+
 
 ---
 
