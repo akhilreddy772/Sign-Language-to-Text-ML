@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+websockets
+opencv-python
+mediapipe
+numpy
+python-multipart
+deep-translator
+scikit-learn
+pandas
+joblib
